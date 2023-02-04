@@ -1,3 +1,3 @@
 # hackathon-backend
 
-# backend code here
+# use node.js for the backend
